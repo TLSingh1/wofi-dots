@@ -1,0 +1,13 @@
+width=860
+height=638
+show=drun
+dynamic_lines=true
+/* image_size=0 */
+prompt=Search...
+no_actions=true
+allow_images=true
+allow_markup=true
+insensitive=true
+gtk_dark=true
+style=/home/tai/.config/wofi/styles.css
+hide_scroll=true
